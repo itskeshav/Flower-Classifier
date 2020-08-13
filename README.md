@@ -10,6 +10,9 @@ The project is broken down into multiple steps:-<br>
 2.Train the image classifier on your dataset<br>
 3.Use the trained classifier to predict image content<br>
 
+# Data
+The dataset consists of about 8200 images of flowers divided over 102 different categories. The description of the dataset is available [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html). It can be downloaded from [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz)
+
 
 # Dependencies
 
