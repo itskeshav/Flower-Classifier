@@ -4,12 +4,12 @@ This project is part of the Udacity AI Programming with Python Nanodegree. The g
 Implementation of training and prediction in Jupyter notebook
 Porting the code from Jupyter notebook to 2 separate scripts: to train a network model and to classify an image based on an existing trained network model.
 
-<p>
+
 The project is broken down into multiple steps:-
-1.Load and preprocess the image dataset
-2.Train the image classifier on your dataset
-3.Use the trained classifier to predict image content
-</p>
+1.Load and preprocess the image dataset<br>
+2.Train the image classifier on your dataset<br>
+3.Use the trained classifier to predict image content<br>
+
 
 # Install
 This project requires <b>Python 3.x</b> and the following Python libraries installed:
