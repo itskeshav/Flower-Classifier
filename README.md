@@ -13,8 +13,8 @@ The project is broken down into multiple steps:-
 # Install
 This project requires <b>Python 3.x</b> and the following Python libraries installed:
 
-NumPy[Numpy](http://www.numpy.org/)
-Pandas
-matplotlib
-pytorch
-You will also need to have software installed to run and execute an iPython Notebook
+[Numpy](http://www.numpy.org/)
+[Pandas](http://pandas.pydata.org/)
+[matplotlib](http://matplotlib.org/)
+[pytorch](https://pytorch.org/)
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
