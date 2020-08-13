@@ -1,6 +1,9 @@
 # Project: Flower Image Classifier
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itskeshav/Flower-Classifier/master)
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/itskeshav/Flower-Classifier/master
+
 This project is part of the Udacity AI Programming with Python Nanodegree. The goal is to create an image classifier to identify flowers. The project consists of 2 parts:
 
 Implementation of training and prediction in Jupyter notebook
