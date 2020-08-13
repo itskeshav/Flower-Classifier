@@ -13,7 +13,7 @@ The project is broken down into multiple steps:-
 # Install
 This project requires <b>Python 3.x</b> and the following Python libraries installed:
 
-NumPy
+NumPy[Numpy](http://www.numpy.org/)
 Pandas
 matplotlib
 pytorch
