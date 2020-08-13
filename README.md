@@ -11,16 +11,6 @@ The project is broken down into multiple steps:-<br>
 3.Use the trained classifier to predict image content<br>
 
 
-# Install
-This project requires <b>Python 3.x</b> and the following Python libraries installed:
-
-[Numpy](http://www.numpy.org/)<br>
-[Pandas](http://pandas.pydata.org/)<br>
-[matplotlib](http://matplotlib.org/)<br>
-[pytorch](https://pytorch.org/)<br>
-
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
 # Dependencies
 
 ## Configure and Manage Your Environment with Anaconda
