@@ -11,7 +11,7 @@ The project is broken down into multiple steps:-
 3.Use the trained classifier to predict image content
 
 # Install
-This project requires Python 3.x <mark>Marked text</mark> and the following Python libraries installed:
+This project requires <b>Python 3.x</b> and the following Python libraries installed:
 
 NumPy
 Pandas
